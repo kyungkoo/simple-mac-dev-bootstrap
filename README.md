@@ -5,6 +5,7 @@ This is simple project for make shell script to install homebrew and formula for
 
 Packages
 --------
+- **[Xcode Command Line Tools](https://developer.apple.com/downloads/index.action)**
 - **[Homebrew](http://brew.sh/)**
  - Python 2.x
  - node.js
