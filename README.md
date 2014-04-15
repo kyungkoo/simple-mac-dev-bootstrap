@@ -13,6 +13,7 @@ Packages
  - git
  - gradle
  - tmux
+- **vimrc**
 
 How to Execute This Script
 -------
