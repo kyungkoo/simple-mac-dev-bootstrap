@@ -1,11 +1,11 @@
 simple-mac-dev-bootstrap
 ========================
 
-This is simple shell script to install homebrew and formula for development.
+This is simple project for make shell script to install homebrew and formula for my development.
 
 Packages
 --------
-- Homebrew
+- **[Homebrew](http://brew.sh/)**
  - Python 2.x
  - node.js
  - vim
@@ -14,11 +14,11 @@ Packages
  - gradle
  - tmux
 
-Execute
+How to Execute This Script
 -------
 **Just call ./mac_dev_bootstrap.sh**
 
 Trouble Shooting
 ----------------
 If you got error about permission denied.
-**chomd a+x ./mac_dev_bootstrap.sh**
+**chmod a+x ./mac_dev_bootstrap.sh**
