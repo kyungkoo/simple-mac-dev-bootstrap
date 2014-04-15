@@ -1,4 +1,4 @@
-simple-mac-dev-bootstrap
+Simple Mac Dev Bootstrap
 ========================
 
 This is simple project for make shell script to install homebrew and formula for my development.
@@ -18,9 +18,14 @@ Packages
 
 How to Execute This Script
 -------
-**Just call ./mac_dev_bootstrap.sh**
+**execute This script**
+```Shell
+./mac_dev_bootstrap.sh
+```
 
 Trouble Shooting
 ----------------
 If you got error about permission denied.
-**chmod a+x ./mac_dev_bootstrap.sh**
+```Shell
+chmod a+x ./mac_dev_bootstrap.sh
+```
