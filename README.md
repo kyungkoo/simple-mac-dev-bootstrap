@@ -14,6 +14,7 @@ Packages
  - git
  - gradle
  - tmux
+- **[cocoapods](http://cocoapods.org)**
 - **vimrc**
 
 How to Execute This Script
