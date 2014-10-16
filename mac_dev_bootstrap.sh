@@ -26,6 +26,11 @@ if [ -d $cmd_line_tools_dir ]; then
         echo "start download vimrc using curl"
         curl -o $HOME/.vimrc https://raw.githubusercontent.com/kyungkoo/simple-mac-dev-bootstrap/master/vimrc
     fi
+    # install cocoapods
+    echo "Install cocoapods"
+    sudo gem install cocoapods
+    #end
+    echo "Install Finished!"
 else
     echo "install command line tools after install it, please reexcute this script"
     echo "Install xcode command line tools"
