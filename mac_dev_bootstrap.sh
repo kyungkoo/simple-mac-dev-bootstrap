@@ -9,7 +9,7 @@ if [ -d $cmd_line_tools_dir ]; then
     echo "Xcode CommandLineTools already installed!"
     # install homebrew
     echo "Install Homebrew"
-    ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
     # install homebrew formula
     # python, nodejs, vim, tree, git, gradle, tmux
